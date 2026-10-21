@@ -1,3 +1,5 @@
+> **Archived:** This repository is no longer maintained and will not receive updates or security fixes. It belongs to an earlier version of wasmCloud. For current wasmCloud, see https://github.com/wasmCloud/wasmCloud.
+
 # machine-learning
 
 This repository shall drive the progress towards a support of ML functionality. The following list reflects the conclusions from the *wasmCloud-ml* meeting from 2022-01-11.
